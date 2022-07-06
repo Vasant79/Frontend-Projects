@@ -1,0 +1,30 @@
+body {
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+.margin {
+  margin-top: auto;
+  margin-bottom: 20px;
+}
+
+.center {
+  margin: auto;
+  text-align: center;
+}
+
+.title {
+  font-size: 400%;
+  width: 60vmax;
+}
+
+.image {
+  width: 90%;
+  height: auto;
+  display: block;
+}
+.spacing {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
